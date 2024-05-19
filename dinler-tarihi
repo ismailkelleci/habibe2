@@ -1,0 +1,28 @@
+dinler-tarihi/
+├── index.html
+├── giris.html
+├── antik-donem-dinleri.html
+├── hinduizm.html
+├── budizm.html
+├── yahudilik.html
+├── hristiyanlik.html
+├── islam.html
+├── diger-dinler.html
+├── sonuc.html
+├── styles.css
+└── gorseller/
+    ├── hinduizm.png
+    ├── budizm.png
+    ├── yahudilik-kutsal-metinler.png
+    ├── yahudilik-ritueller.png
+    ├── yahudilik-semboller.png
+    ├── hristiyanlik-kutsal-metinler.png
+    ├── hristiyanlik-ritueller.png
+    ├── hristiyanlik-semboller.png
+    ├── islam-kutsal-metinler.png
+    ├── islam-ritueller.png
+    ├── islam-semboller.png
+    ├── sihizm.png
+    ├── jainizm.png
+    ├── sintoizm.png
+    └── taoizm.png
